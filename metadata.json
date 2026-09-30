@@ -1,0 +1,6 @@
+{
+  "name": "CrashPredictor AI",
+  "description": "Analyse et prédiction par photo pour jeux de crash (Aviator, JetX, Fury Flight) avec calculs statistiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
